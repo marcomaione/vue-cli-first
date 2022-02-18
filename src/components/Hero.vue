@@ -1,10 +1,10 @@
 <template>
-   <img src="https://www.crushpixel.com/big-static14/preview4/ciao-both-hello-bye-italian-1603811.jpg" alt="">
+   <img src="https://www.adesso-online.de/sites/adesso.spotlight-verlag.de/files/styles/mode_content/public/2018-10/ciao_compleanno.jpg?itok=2oc5NRPs" alt="">
 </template>
 
 <script>
 export default {
-  name: 'HeroJpg',
+  name: 'Hero-Jpg'
   
 }
 </script>
